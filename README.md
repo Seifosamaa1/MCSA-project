@@ -71,7 +71,3 @@ The goal of this project was to design and deploy a fully functional Windows Ser
 - Deep understanding of Windows Server services and user management.
 - Practical experience with GPOs, DNS/DHCP, and web/FTP hosting.
 
----
-
-> 🚀 This project was built as part of an MCSA learning initiative to simulate real-world IT administration.
-
